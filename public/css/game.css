@@ -1,0 +1,220 @@
+body {
+	top: -18px;
+	left: 0;
+	margin:0;
+	padding:0;
+	background: url(../img/wallpaper.jpg) no-repeat center fixed !important; 
+	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
+	background-size: cover; /* version standardisée */
+}
+
+#server_logs ul li {
+	color: white;
+}
+
+#desk {
+	margin-top: 10px;
+	width: 100%;
+	/*margin-bottom: 146px;*/
+	margin-left: 10px;
+}
+
+#desk tr td {
+	background-color: black;
+}
+
+#desk table {
+	background-color: transparent !important;
+	margin: auto;
+	width: 754px;
+	border-spacing: 4px;
+    border-collapse: separate;
+    height: 156px;
+}
+
+#desk table tr td {
+	width: 100px;
+	height: 146px;
+	position: relative;
+	border: 2px solid white;
+	border-radius: 5px;
+	padding: 0;
+	text-align: center;
+	float: left;
+	margin-left: 2px;
+	border-radius: 5px;
+}
+
+#desk table tr.even, table tr.alt, table tr:nth-of-type(even) {
+	background-color: transparent !important;
+}
+
+#desk table tr td img {
+	width: 100px;
+	height: 146px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+#previous {
+	float: left;
+	background-color: white;
+	cursor: pointer;
+}
+
+#next {
+	float: right;
+	background-color: white;
+	cursor: pointer;
+}
+
+.desk-description {
+	position: relative;
+	color: white;
+	z-index: 2;
+	top: 10px;
+}
+
+.game-fieldset {
+	width: 800px;
+	/*opacity: 0.85;*/
+	border-radius: 5px;
+}
+
+.description-fieldset {
+	/*position: fixed;*/
+	top: 230px;
+	right: 10px;
+	width: 300px;
+	height: 450px;
+	border-radius: 5px;
+}
+
+.player-fieldset {
+	/*position: fixed;*/
+	top: 0;
+	right: 10px;
+	width: 300px;
+	height: 100px;
+	border-radius: 5px;
+	background-color: white;
+	/*opacity: 0.85;*/
+}
+
+.other-player-fieldset {
+	/*position: fixed;*/
+	top: 100px;
+	right: 10px;
+	width: 300px;
+	height: 100px;
+	border-radius: 5px;
+	background-color: white;
+	/*opacity: 0.85;*/
+}
+
+.pb_pv {
+	width: 100%;
+}
+
+#pb_pv_player {
+	background-color: green;
+}
+
+#pb_pv_other {
+	background-color: red;
+}
+
+.menu-fieldset .button {
+	float: left;
+	margin-right: 10px;
+}
+
+#info_players {
+	float: left;
+	margin-left: 20px;
+	z-index: 3;
+}
+
+#description_card {
+	float: left;
+	margin-left: 20px;
+	z-index: 4;
+}
+
+#board {
+	float: left;
+	z-index: 5;
+}
+
+.log-fieldset {
+	font-size: 12px;
+	height: 51px;
+	position: relative; 
+	z-index: 95;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+#menu {
+	margin-left: 20px;
+	float: left;
+	z-index: 95;
+}
+.menu-fieldset {
+	background-color: white;
+/*	position: fixed;
+	top: -18px;
+	left: 0px;*/
+	/*width: 100%;*/
+	z-index: 5;
+	min-width: 800px;
+	/*opacity: 0.85;*/
+}
+
+.tip-fieldset {
+	background-color: white;
+	/*position: fixed;*/
+	bottom: 110px;
+	right: 0;
+	width: 300px;
+	z-index: 5;
+	/*opacity: 0.85;*/
+}
+
+.ennemy-hand-fieldset {
+	overflow: hidden;
+	height: 70px;
+}
+
+#focus-img {
+	width: 300px;
+}
+
+.green {
+	border: 2px solid green !important;
+}
+
+#modal_shadow {
+	background-color: black;
+	opacity: 0.8;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	display: none;
+	z-index: 98;
+}
+
+#modal {
+	border-radius: 5px;
+	background-color: white;
+	position: relative;
+	padding: 10px;
+	width: 800px;
+	top: 100px;
+	margin: auto;
+	display: none;
+	z-index: 99;
+}

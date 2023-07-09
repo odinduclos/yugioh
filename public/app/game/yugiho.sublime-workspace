@@ -1,0 +1,1481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"arra",
+				"array_push"
+			],
+			[
+				"instruct",
+				"instructions"
+			],
+			[
+				"instructi",
+				"instructions2"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"css",
+				"css_cmp"
+			],
+			[
+				"html",
+				"htmlFiles"
+			],
+			[
+				"mer",
+				"merge_selectors"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"for",
+				"for	for …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "game.controller.js",
+			"settings":
+			{
+				"buffer_size": 5059,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/config/socket.js",
+			"settings":
+			{
+				"buffer_size": 1057,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/app.js",
+			"settings":
+			{
+				"buffer_size": 448,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "game.html",
+			"settings":
+			{
+				"buffer_size": 4421,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/css/game.css",
+			"settings":
+			{
+				"buffer_size": 2204,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/app/game/game.controller.js",
+			"settings":
+			{
+				"buffer_size": 698,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/config/routes.js",
+			"settings":
+			{
+				"buffer_size": 482,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/app/game/index.js",
+			"settings":
+			{
+				"buffer_size": 364,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/index.html",
+			"settings":
+			{
+				"buffer_size": 915,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Bro",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/app",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/app/game",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/config",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/public",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/app",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/app/game",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/bower_components",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/css"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/portfolio/saint-_p/.htaccess",
+		"/C/wamp/www/portfolio/saint-_p/app/View/Pages/home.ctp",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/node_modules/grunt/CONTRIBUTING.md",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/node_modules/resource/node_modules/jugglingdb-nano/node_modules/nano/samples/lazy_creation_of_views.js",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/examples/constants.js",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/node_modules/grunt/node_modules/colors/themes/winston-light.js",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/node_modules/csurf/node_modules/csrf/node_modules/uid-safe/node_modules/mz/node_modules/native-or-bluebird/LICENSE",
+		"/C/Users/duclos_o/Desktop/console.php",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/app.js",
+		"/C/Users/duclos_o/Documents/WAC/test_2.xml",
+		"/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/app/game/game.controller.js",
+		"/C/wamp/www/umetro/index.html",
+		"/C/wamp/www/warhammer/Ship.js",
+		"/C/wamp/www/warhammer/app.js",
+		"/C/wamp/www/magiseo/CrawlerBundle/Resources/Algo/algo_css.php",
+		"/C/wamp/www/magiseo/CrawlerBundle/Resources/Algo/scan_utils.php",
+		"/C/wamp/www/magiseo/CrawlerBundle/Resources/Algo/tu/tu.php",
+		"/C/wamp/www/magiseo/SiteBundle/Resources/public/css/style.css",
+		"/C/wamp/www/mail_to/index.php",
+		"/C/wamp/www/mail_to/script_mail.php",
+		"/C/wamp/www/index.php",
+		"/C/wamp/www/framework/jain_j/views/default/default.html",
+		"/C/wamp/www/framework/jain_j/views/connexion.html",
+		"/C/wamp/www/framework/jain_j/models/DefaultModel.class.php",
+		"/C/wamp/www/framework/jain_j/controllers/DefaultController.class.php",
+		"/C/wamp/www/framework/jain_j/robots.txt",
+		"/C/wamp/www/framework/jain_j/index.php",
+		"/C/wamp/www/framework/jain_j/application/routing.php",
+		"/C/wamp/www/framework/jain_j/application/Core.class.php",
+		"/C/wamp/www/framework/jain_j/application/autoload.php",
+		"/C/wamp/www/framework/jain_j/.htaccess",
+		"/C/wamp/www/framework/dezeeu_l/my_framework/controllers/DefaultController.class.php",
+		"/C/wamp/www/framework/dezeeu_l/my_framework/application/Core.class.php",
+		"/C/wamp/www/framework/dezeeu_l/my_framework/application/autoload.php",
+		"/C/wamp/www/framework/dezeeu_l/my_framework/models/AccountModel.class.php",
+		"/C/wamp/www/framework/dezeeu_l/my_framework/controllers/AccountController.class.php",
+		"/C/wamp/www/framework/hoarau_i/Core/log_error_php.txt",
+		"/C/wamp/www/framework/hoarau_i/Core/Includes.php",
+		"/C/wamp/www/framework/hoarau_i/Views/Default/ViewList.php",
+		"/C/wamp/www/framework/hoarau_i/Views/Default/Index.php",
+		"/C/wamp/www/framework/hoarau_i/Views/Default/View.php",
+		"/C/wamp/www/framework/hoarau_i/Views/Error/404.php",
+		"/C/wamp/www/framework/hoarau_i/Add-On/FormAddOn.php",
+		"/C/wamp/www/framework/hoarau_i/Core/ApplicationModel.php",
+		"/C/wamp/www/framework/hoarau_i/Models/Post.php",
+		"/C/wamp/www/framework/hoarau_i/.htaccess",
+		"/C/wamp/www/framework/hoarau_i/Controllers/DefaultController.php",
+		"/C/wamp/www/framework/poirie_b/config/routes.php",
+		"/C/wamp/www/framework/poirie_b/config/auth.php",
+		"/C/wamp/www/framework/poirie_b/config/database.php",
+		"/C/wamp/www/framework/poirie_b/config/filters.php",
+		"/C/wamp/www/framework/poirie_b/model/Model.php",
+		"/C/wamp/www/framework/poirie_b/model/User.php",
+		"/C/wamp/www/framework/poirie_b/controller/Controller.php",
+		"/C/wamp/www/framework/poirie_b/controller/IndexController.php",
+		"/C/wamp/www/framework/poirie_b/index.php",
+		"/C/wamp/www/framework/rocha_t/Views/Flux/add.view.php",
+		"/C/wamp/www/framework/rocha_t/class/Database/QuerySelect.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Database/QueryParser.class.php___jb_bak___",
+		"/C/wamp/www/framework/rocha_t/class/Database/QueryParser.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Database/QueryBuilder.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Database/DatabaseORM.php",
+		"/C/wamp/www/framework/rocha_t/class/Routes/Routes.settings.php",
+		"/C/wamp/www/framework/rocha_t/Views/Layout/layout.view.php",
+		"/C/wamp/www/framework/rocha_t/index.php",
+		"/C/wamp/www/framework/rocha_t/Models/Flux.model.php",
+		"/C/wamp/www/framework/rocha_t/Views/Users/edit.view.php",
+		"/C/wamp/www/framework/rocha_t/Models/FluxContent.model.php",
+		"/C/wamp/www/framework/rocha_t/Models/Users.model.php",
+		"/C/wamp/www/framework/rocha_t/class/validation.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Constant.class.php",
+		"/C/wamp/www/framework/rocha_t/class/bdd.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Sessions/Session.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Routes/Route.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Views/View.class.php",
+		"/C/wamp/www/framework/rocha_t/class/Routes/Dispatcher.class.php",
+		"/C/wamp/www/framework/cilpa_l/Web/.htaccess",
+		"/C/wamp/www/framework/cilpa_l/Library/Entities/News.php",
+		"/C/wamp/www/framework/cilpa_l/Library/ApplicationComponent.php",
+		"/C/wamp/www/framework/cilpa_l/Library/autoload.php",
+		"/C/wamp/www/framework/cilpa_l/Library/BackController.php",
+		"/C/wamp/www/framework/cilpa_l/Library/Config.php",
+		"/C/wamp/www/framework/cilpa_l/Library/Entity.php",
+		"/C/wamp/www/framework/rocha_t/Controllers/Users.controller.php",
+		"/C/wamp/www/framework/cilpa_l/Library/Models/NewsManager_PDO.php",
+		"/C/wamp/www/framework/cilpa_l/Library/Models/NewsManager.php",
+		"/C/wamp/www/framework/cilpa_l/Library/Router.php",
+		"/C/wamp/www/framework/cilpa_l/Library/PDOFactory.php",
+		"/C/wamp/www/framework/cilpa_l/Library/HTTPRequest.php",
+		"/C/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/C/wamp/www/framework/cilpa_l/Applications/Frontend/Config/routes.xml",
+		"/C/wamp/www/framework/cilpa_l/Library/Route.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/www/framework/frih_a/config/sql.php",
+		"/C/wamp/www/framework/frih_a/controllers/FeedController.php",
+		"/C/wamp/www/framework/frih_a/core/auth.php",
+		"/C/wamp/www/framework/frih_a/views/feed.php",
+		"/C/wamp/www/framework/frih_a/config/routes.php",
+		"/C/wamp/www/framework/frih_a/core/router.php",
+		"/C/wamp/www/framework/frih_a/core/filters.php",
+		"/C/wamp/www/framework/frih_a/core/database.php",
+		"/C/wamp/www/framework/frih_a/models/Feed.php",
+		"/C/wamp/www/framework/frih_a/views/404.php",
+		"/C/wamp/www/framework/frih_a/server.php",
+		"/C/wamp/www/framework/frih_a/readme.txt",
+		"/C/wamp/www/framework/frih_a/index.php",
+		"/C/wamp/www/framework/frih_a/.htaccess",
+		"/C/wamp/www/framework/frih_a/rssfeed.sql",
+		"/C/Users/duclos_o/Documents/WAC/rapport_entreprise_novembre.xml",
+		"/C/wamp/www/magiseo/CrawlerBundle/Controller/CrawlerController.php",
+		"/C/wamp/www/warhammer/index.html",
+		"/C/wamp/www/warhammer/Dice.js",
+		"/C/wamp/www/mail_to/mail.php",
+		"/C/wamp/www/warhammer/joyjs/lib/collider/rect_collider.js",
+		"/C/wamp/www/warhammer/joyjs/lib/render/sprite.js",
+		"/C/wamp/www/warhammer/joyjs/lib/render/display_object_container.js",
+		"/C/wamp/www/warhammer/joyjs/lib/joy.js",
+		"/C/wamp/www/warhammer/joyjs/lib/api.js",
+		"/C/wamp/www/warhammer/joyjs/lib/render/sprite_animation.js",
+		"/C/wamp/www/warhammer/joyjs/lib/render/display_object.js",
+		"/C/wamp/www/manorie/my_map/fullscreen.js",
+		"/C/wamp/www/manorie/rss/style.css",
+		"/C/wamp/www/manorie/rss/profile.php",
+		"/C/wamp/www/manorie/rss/login.class.php",
+		"/C/wamp/www/manorie/rss/delete.php",
+		"/C/wamp/www/manorie/rss/edit.php",
+		"/C/wamp/www/manorie/rss/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\wamp\\www\\warhammer\\joyjs\\lib",
+			"C:\\wamp\\www\\warhammer\\joyjs",
+			"C:\\wamp\\www\\magiseo\\CrawlerBundle\\Resources\\Algo\\vendor\\sabberworm\\php-css-parser",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<p>{{name}}</p>",
+			"progress_bar",
+			"id",
+			"description-fieldset",
+			"name",
+			"select",
+			"from",
+			"to(other.room)",
+			"to(other.id)",
+			".room",
+			"other.id",
+			"to(other.room)",
+			"other.id",
+			"room",
+			"user ",
+			"user",
+			"socket.id",
+			"waiting_users",
+			"enemy_hand",
+			");",
+			"console.log",
+			"getRoom",
+			"socket.id",
+			"server_log",
+			"data",
+			"server_logs",
+			"font",
+			"/td>",
+			"column",
+			"['master']->plaintext",
+			"->plaintext",
+			"column",
+			"instructions",
+			"vho",
+			"virtual",
+			"$j",
+			"log",
+			"sub_instructions",
+			"collider",
+			"collide",
+			"RectCollider",
+			"rect_collider",
+			"rotation",
+			"screen",
+			"this",
+			"sprites/",
+			"_sprite =",
+			"10",
+			"new Joy.Text",
+			"sprite,",
+			"20",
+			"60",
+			"ship",
+			" 100,",
+			"sprite,",
+			"prit",
+			".log",
+			"this",
+			"watch",
+			"900",
+			"1600",
+			"dice1",
+			"log",
+			":",
+			"object",
+			"other",
+			"this.object.",
+			"speed",
+			"Joy.deltaTime",
+			"this",
+			".object",
+			".alien",
+			"list",
+			"this.ships",
+			"this.prout",
+			"object",
+			"this.object",
+			"object.",
+			"dice.",
+			"dice",
+			"explosion.",
+			"explosion",
+			"object_select",
+			"shoot",
+			"moving",
+			"objects",
+			"ship",
+			"object",
+			"turning",
+			"object.",
+			"object",
+			"create_ship",
+			"console.log",
+			"dice",
+			"canvas.width / 2 - 32",
+			": 1",
+			"currentAnimation",
+			"10",
+			": {",
+			": ",
+			": 10",
+			"\":",
+			", framesPerSecond: 1",
+			"50",
+			": 10",
+			"explosion",
+			"Joy.SpriteSheet",
+			"this",
+			": 1",
+			"1",
+			": 5",
+			" 5",
+			"5",
+			"100 ",
+			"100",
+			"this",
+			"other",
+			"30",
+			"rufus",
+			"120",
+			"engine",
+			"KEY_A",
+			"===",
+			" ===",
+			"===",
+			"this.is_moving.state && ",
+			"KEY_D",
+			"this.is_moving.state && ("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"// console.log"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "game.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5059,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4572,
+								4409
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1593.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/config/socket.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1057,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								848,
+								848
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 448,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								15
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "game.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3749,
+								3761
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/css/game.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1556,
+								1556
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1383.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/app/game/game.controller.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 698,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								696,
+								696
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/config/routes.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/app/game/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 364,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/duclos_o/Documents/Yu-Gi-Oh/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								771,
+								771
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 614.0
+	},
+	"project": "yugiho.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"route",
+				"laravel\\freeads\\app\\routes.php"
+			],
+			[
+				"files",
+				"app\\Controller\\FilesController.php"
+			],
+			[
+				"core",
+				"lib\\Cake\\Console\\Templates\\skel\\Config\\core.php"
+			],
+			[
+				"",
+				"cloud_wac\\app\\Controller\\UsersController.php"
+			],
+			[
+				"app",
+				"cloud_wac\\app\\Controller\\AppController.php"
+			],
+			[
+				"user",
+				"cloud_wac\\app\\Controller\\UsersController.php"
+			],
+			[
+				"confi",
+				"cloud_wac\\lib\\Cake\\Config\\config.php"
+			],
+			[
+				"sign",
+				"cloud_wac\\app\\view\\Users\\signup.ctp"
+			],
+			[
+				"drop",
+				"cloud_wac\\app\\webroot\\js\\dropzone.js"
+			],
+			[
+				"fondatio",
+				"cloud_wac\\app\\webroot\\css\\foundation.min.css"
+			],
+			[
+				"appc",
+				"cloud_wac\\app\\Controller\\AppController.php"
+			],
+			[
+				"index.ctp",
+				"cloud_wac\\app\\view\\Uploads\\index.ctp"
+			],
+			[
+				"view",
+				"app\\View\\Billets\\view.ctp"
+			],
+			[
+				"billet",
+				"app\\Controller\\BilletsController.php"
+			],
+			[
+				"appcontr",
+				"app\\Controller\\AppController.php"
+			],
+			[
+				"data",
+				"app\\Config\\database.php.default"
+			],
+			[
+				"boot",
+				"app\\Config\\bootstrap.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
